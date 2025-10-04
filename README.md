@@ -25,3 +25,7 @@ We welcome contributions to improve PawFinds! To contribute, follow these steps:
 - Make your changes and commit them: git commit -m 'Add new feature'
 - Push to the branch: git push origin feature-new-feature
 - Create a pull request explaining your changes.
+
+ #**📌 Why PawFinds?
+
+PawFinds isn’t just a project—it’s a passion for pets. Every feature is designed to make adopting pets fun, simple, and heartwarming.
